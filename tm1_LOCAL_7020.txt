@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 this is in master
-=======
 this is in r1
->>>>>>> r1

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hi hello
+=======
+hi how r u ??
+>>>>>>> r2
